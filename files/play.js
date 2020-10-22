@@ -4,7 +4,7 @@ TouchSlide({slideCell:"#slider",titCell:"header dt",mainCell:".bd",effect:"leftL
 
 var urls = [
 "https://a.mahua-kb.com/20200417/bNUSK8xw/index.m3u8", "https://a.mahua-kb.com/20200520/KzlV3l9H/index.m3u8", "https://a.mahua-kb.com/20200524/MwnAse2O/index.m3u8", "https://b.mahua-kb.com/20200621/RYzXlaNO/index.m3u8", "https://b.mahua-kb.com/20200624/VxiaV400/index.m3u8", 
-"https://cnc2.88zyw.net/20190906/金瓶梅/新金瓶梅1/index.m3u8", "https://cnc2.88zyw.net/20190906/金瓶梅/新金瓶梅2/index.m3u8", "https://cnc2.88zyw.net/20190906/金瓶梅/新金瓶梅3/index.m3u8", 
+"https://www.dandanzan.com/https://cnc2.88zyw.net/20190906/金瓶梅/新金瓶梅1/index.m3u8", "https://cnc2.88zyw.net/20190906/金瓶梅/新金瓶梅2/index.m3u8", "https://cnc2.88zyw.net/20190906/金瓶梅/新金瓶梅3/index.m3u8", 
 "https://cnc2.88zyw.net/20190906/金瓶梅/新金瓶梅4/index.m3u8", "https://cnc2.88zyw.net/20190906/金瓶梅/新金瓶梅5/index.m3u8", 
 "https://yong.yongjiu6.com/20171220/9rPZR8mW/index.m3u8", "https://yong.yongjiu6.com/20171220/gKL5kP35/index.m3u8", "https://yong.yongjiu6.com/20171220/2Phie70E/index.m3u8", 
 "https://yong.yongjiu6.com/20171220/PMqicUGI/index.m3u8", "https://yong.yongjiu6.com/20171220/4Ml2bcxP/index.m3u8", 
